@@ -1,4 +1,4 @@
-F#define FUSE_USE_VERSION 26
+#define FUSE_USE_VERSION 26
 
 #include <ctype.h>
 #include <dirent.h>
